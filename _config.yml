@@ -3,7 +3,7 @@ logo: /assets/img/logo.jpg
 description: wow i need to change this
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minimal
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
