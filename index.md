@@ -45,6 +45,9 @@ For more details on each of the competition rounds, see the information below.
 
 # Contact
 
+Email: [shmathclub@gmail.com](mailto:shmathclub@gmail.com)
+Instagram: shsmathclub
+
 # Random Formatting :D
 **Inline colored text**:
 Test test regular text <span style="color:blue">some *blue* text</span>.
