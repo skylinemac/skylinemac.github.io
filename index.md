@@ -54,6 +54,7 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
 - **Time Limit**: 40 Minutes
 
 - **Point System**:
+
   - 10 Easy Questions
 
     - 1 point per correct answer; 4 answer choices each
