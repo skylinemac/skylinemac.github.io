@@ -8,11 +8,14 @@ Middle school math curriculum--and even competition math (think AMC, MATHCOUNTS.
 
 However, in our own high school careers, being exposed to the beauty of higher math and seeing the subject being applied everywhere in our lives has helped us realized: it isn't math itself that is boring, it is the way it has been introduced. Hence, with the **Skyline Math Applications Contest (SMAC)**, we've taken a different approach:
 
-In the format of a 
+The SMAC's questions focus on introducing math's real world applications, using previously abstract concepts and applying them to everything from engineering/physics to buying the best-valued donut. Much like the problem sets found in college math, competitors will **discover and derive** new concepts and learn new things, rather than being simply told that these concepts exist. Of course, with the engaging competition format and a healthy dose of humor sprinkled throughout our questions, our ultimate hope is that students have fun and learn that there _is a point to learning math_.
 
-Test test regular text <span style="color:blue">some *blue* text</span>.
+
 
 # Random Formatting :D
+**Inline colored text**:
+Test test regular text <span style="color:blue">some *blue* text</span>.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
