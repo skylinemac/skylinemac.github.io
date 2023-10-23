@@ -12,10 +12,12 @@ The SMAC's questions focus on introducing math's real world applications, using 
 
 # Competition Logistics
 ### Location
-**The SMAC will be held at <span style="color:blue">Skyline High School</span> on Friday <span style="color:blue">February 16th, 2024</span**
+**The SMAC will be held at** <span style="color:blue">Skyline High School</span> on Friday <span style="color:blue">February 16th, 2024</span
 Skyline High School is located at 1122 228th Ave SE, Sammamish, WA 98075
 
-Once you arrive at school, signs will direct you to the **theater**, where 
+Once you arrive at school, signs will direct you to the **theater**, where we will kick off the competition. From there, volunteers will direct all students to the classroooms where they'll be taking the test.
+
+While we are not providing dinner (see schedule below), Skyline High School is conveniently located near many restaurants in the Sammamish area.
 
 ### Schedule
 
