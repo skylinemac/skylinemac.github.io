@@ -14,7 +14,7 @@ The SMAC's questions focus on introducing math's real world applications, using 
 ### Location
 **The SMAC will be held at** <span style="color:blue"><b>Skyline High School</b></span> **on** Friday <span style="color:blue"><b>February 16th, 2024</b></span>
 
-Skyline High School is located at 1122 228th Ave SE, Sammamish, WA 98075
+Skyline High School is located at **1122 228th Ave SE, Sammamish, WA 98075**
 
 Once you arrive at school, signs will direct you to the **theater**, where we will kick off the competition. From there, volunteers will direct all students to the classroooms where they'll be taking the test.
 
@@ -23,13 +23,24 @@ While we are not providing dinner (see schedule below), Skyline High School is c
 ### Schedule
 On Friday, February 16th, 2024, the SMAC will follow the schedule below:
 
-| **Time** | **Event** |
-| -------- | --------- |
-|          |           |
-|          |           |
-|          |           |
+| **Time**    | **Event**                                                 |
+| ----------- | --------------------------------------------------------- |
+| 3:45 - 4:15 | Arrive at Skyline HS                                      |
+| 4:15 - 4:30 | Opening ceremony at Skyline theater                       |
+| 4:30 - 4:45 | Walk to classrooms, get ready for competition             |
+| 4:45 - 5:25 | Round 1 (Multiple choice sprint round)                    |
+| 5:25 - 5:35 | Break                                                     |
+| 5:35 - 5:55 | Round 2 (Numerical response challenge round)              |
+| 5:55 - 6:05 | Break                                                     |
+| 6:05 - 6:20 | Round 3A (Triple Jump part A)                             |
+| 6:20 - 6:25 | Break                                                     |
+| 6:25 - 6:40 | Round 3B (Triple Jump part B)                             |
+| 6:40 - 6:50 | Testing over - clean up                                   |
+| 6:50 - 7:30 | Dinner on your own (Skyline _will not_ be providing food) |
+| 7:30 - 8:00 | College bowl for top 3 students per grade                 |
+| 8:00 - 8:30 | Awards ceremony                                           |
 
-
+For more details on each of the competition rounds, see the information below.
 
 
 # Contact
