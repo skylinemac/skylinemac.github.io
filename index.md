@@ -6,9 +6,11 @@ layout: default
 
 Middle school math curriculum--and even competition math (think AMC, MATHCOUNTS...)--is filled with memorizing formula and solving problems that often seem entirely abstract. As such, learning math is frequently seen as a pointless task for many kids. 
 
-However, in our own high school careers, being exposed to the beauty of higher math and seeing the subject being applied everywhere in our lives has helped us realized: it isn't math itself that is boring, it is the way it has been introduced. Hence, with the **Skyline Math Applications Contest (SMAC)**, we've taken a different approach.
+However, in our own high school careers, being exposed to the beauty of higher math and seeing the subject being applied everywhere in our lives has helped us realized: it isn't math itself that is boring, it is the way it has been introduced. Hence, with the **Skyline Math Applications Contest (SMAC)**, we've taken a different approach:
 
-\textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+In the format of a 
+
+Test test regular text <span style="color:blue">some *blue* text</span>.
 
 # Random Formatting :D
 Text can be **bold**, _italic_, or ~~strikethrough~~.
