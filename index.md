@@ -10,7 +10,11 @@ However, in our own high school careers, being exposed to the beauty of higher m
 
 The SMAC's questions focus on introducing math's real world applications, using previously abstract concepts and applying them to everything from engineering/physics to buying the best-valued donut. Much like the problem sets found in college math, competitors will **discover and derive** new concepts and learn new things, rather than being simply told that these concepts exist. Of course, with the engaging competition format and a healthy dose of humor sprinkled throughout our questions, our ultimate hope is that students have fun and learn that there _is a point to learning math_.
 
+# Schedule and Location
+**The SMAC will be held at <span style="color:blue">Skyline High School</span> on Friday <span style="color:blue">February 16th, 2024</span**
 
+
+# Contact
 
 # Random Formatting :D
 **Inline colored text**:
