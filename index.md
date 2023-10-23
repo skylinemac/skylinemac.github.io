@@ -12,9 +12,10 @@ The SMAC's questions focus on introducing math's real world applications, using 
 
 # Competition Logistics
 ### Location
-**The SMAC will be held at** <span style="color:blue"><b>Skyline High School</b></span> **on** Friday <span style="color:blue"><b>February 16th, 2024</b></span>
+**The SMAC will be held at** <span style="color:blue"><b>Skyline High School</b></span> **on Friday** <span style="color:blue"><b>February 16th, 2024</b></span>
 
 Skyline High School is located at **1122 228th Ave SE, Sammamish, WA 98075**
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2690.3381844345126!2d-122.03488572394158!3d47.60011347118931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549071e79c304c05%3A0x1a335c1ccd19dacb!2sSkyline%20High%20School!5e0!3m2!1sen!2sus!4v1698100953057!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 Once you arrive at school, signs will direct you to the **theater**, where we will kick off the competition. From there, volunteers will direct all students to the classroooms where they'll be taking the test.
 
@@ -40,7 +41,7 @@ On Friday, February 16th, 2024, the SMAC will follow the schedule below:
 | 7:30 - 8:00 | College bowl for top 3 students per grade                 |
 | 8:00 - 8:30 | Awards ceremony                                           |
 
-For more details on each of the competition rounds, see the information below.
+For more details on each of the competition rounds, see the information below. Please note that while we have time allotted for dinner, we will **not** be providing food. We encourage participants to either bring their own food (there will be space for everyone to eat and hang out) or go out and buy food.
 
 
 # Contact
