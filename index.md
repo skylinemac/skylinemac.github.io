@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-# What is SMAC
+# What is SMAC?
+_So you think you can do competition math..._
 
+Middle school math curriculum--and even competition math (think AMC, MATHCOUNTS...)--is filled with 
+
+# Random Formatting :D
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
