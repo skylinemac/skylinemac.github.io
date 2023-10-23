@@ -8,6 +8,8 @@ Middle school math curriculum--and even competition math (think AMC, MATHCOUNTS.
 
 However, in our own high school careers, being exposed to the beauty of higher math and seeing the subject being applied everywhere in our lives has helped us realized: it isn't math itself that is boring, it is the way it has been introduced. Hence, with the **Skyline Math Applications Contest (SMAC)**, we've taken a different approach.
 
+\textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+
 # Random Formatting :D
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
