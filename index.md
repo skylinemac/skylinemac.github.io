@@ -48,14 +48,20 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
 
 ## Multiple Choice
 - **Qualification**: All Students
+
 - **Question Type**: 30 multiple choice questions
+
 - **Time Limit**: 40 Minutes
+
 - **Point System**:
   - 10 Easy Questions
+
     - 1 point per correct answer; 4 answer choices each
   - 10 Medium Questions
+
     - 3 points per correct answer; 5 answer choices each
   - 10 Hard Questions
+
     - 5 points per correct answer; 6 answer choices each
   - 0.5 points for blank responses and 0 points for incorrect responses
 - **Total Points**: 90 Points
@@ -63,40 +69,63 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
 
 ## Numerical Response
 - **Qualification**: All Students
+
 - **Question Type**: 5 numerical responses between 000 and 999 inclusive
+
 - **Time Limit**: 20 Minutes
+
 - **Point System**:
+
   - 10 points per correct answer
+
   - 0 points for blank or incorrect responses
 - **Total Points**: 50 Points
 
 
 ## Triple Jump
 - **Qualification**: All Students
+
 - **Question Type**: 3 numerical responses between 000 and 999 inclusive per round; 2 rounds in total
+
 - **Time Limit**: 15 Minutes per round; 2 rounds in total
+
 - **Point System**:
+
   - 3 submissions per round
+
     - 1 submission of all 3 answers each at the 5-minute, 10-minute, and 15-minute mark
   - 2 points per correct answer for the 5-minute and 10-minute submissions
+
   - 4 points per correct answer for the 15-minute submission
+
   - 0 points for blank or incorrect responses
 - **Total Points**: 24 Points per round; 48 Points in total
 
 
 ## College Bowl
 - **Qualification**: Top 3 scorers from each grade based on sum of scores from the above rounds
+
   - Ties are broken in the order of rounds below:
+
     - Multiple Choice score
+
     - Numerical Response score
+    
     - Triple Jump score
 - **Question Type**: Integer answers
+
 - **Format**:
+
   - Qualifiers from each grade will compete with a different set of questions
+
   - Each question will be read twice with up to 40 seconds given per question after the **second read**
+
   - Students may raise their hand to answer the question at anytime, but one student may only answer once per question
+
   - 1 point per correct answer
+
   - No penalty per incorrect answer
+
   - At least 4 questions will be given per grade level; ties will be broken by a 5th question
 
 
