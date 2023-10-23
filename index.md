@@ -44,11 +44,47 @@ On Friday, February 16th, 2024, the SMAC will follow the schedule below:
 For more details on each of the competition rounds, see the information below. Please note that while we have time allotted for dinner, we will **not** be providing food. We encourage participants to either bring their own food (there will be space for everyone to eat and hang out) or go out and buy food.
 
 # Competition Format
-As seen in the schedule above, the SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding.
+As seen in the schedule above, the SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding. Units are **not required** for any of the answers throughout this contest, and students may use scratch paper for all parts of the contest only if it is provided by SMAC organizers.
 
-| **Event** | **Qualification** | **Question Type** | **Point System** | **Maximum Points** |
-| Multiple Choice | All Students | 30 multiple choice questions | 10 Easy Questions (1 point per question; 4 answer choices) <br /> 10 Medium Questions (3 points per question; 5 answer choices) <br /> 10 Hard Questions (5 points per question; 6 answer choices) <br /> 0.5 points for blank responses and 0 points for incorrect responses | 90 Points |
-| Numerical Response | All Students | 5 numerical responses between 000 and 999 inclusive | 10 points per correct answer <br /> 0 points for incorrect or blank responses | 50 Points |
+## Multiple Choice
+- **Qualification**: All Students
+- **Question Type**: 30 multiple choice questions
+- **Time Limit**: 40 Minutes
+- **Point System**:
+  - 10 Easy Questions (1 point per correct answer; 4 answer choices each)
+  - 10 Medium Questions (3 points per correct answer; 5 answer choices each)
+  - 10 Hard Questions (5 points per correct answer; 6 answer choices each)
+  - 0.5 points for blank responses and 0 points for incorrect responses
+- **Total Points**: 90 Points
+## Numerical Response
+- **Qualification**: All Students
+- **Question Type**: 5 numerical responses between 000 and 999 inclusive
+- **Time Limit**: 20 Minutes
+- **Point System**:
+  - 10 points per correct answer
+  - 0 points for blank or incorrect responses
+- **Total Points**: 50 Points
+## Triple Jump
+- **Qualification**: All Students
+- **Question Type**: 3 numerical responses between 000 and 999 inclusive per round; 2 rounds in total
+- **Time Limit**: 15 Minutes per round; 2 rounds in total
+- **Point System**:
+  - 3 submissions per round (a submission of all 3 answers each at the 5-minute, 10-minute, and 15-minute mark)
+  - 2 points per correct answer for the 5-minute and 10-minute submissions
+  - 4 points per correct answer for the 15-minute submission
+  - 0 points for blank or incorrect responses
+- **TOtal Points**: 24 Points per round; 48 Points in total
+## College Bowl
+- **Qualification**: Top 3 scorers from each grade based on sum of scores from the above rounds (ties are broken first by Multiple Choice score, then Numerical Response score, then Triple Jump score)
+- **Question Type**: Integer answers
+- **Format**:
+  - Qualifiers from each grade will compete with a different set of questions
+  - Each question will be read twice with up to 40 seconds given per question after the **second read**
+  - Students may raise their hand to answer the question at anytime, but one student may only answer once per question
+  - 1 point per correct answer
+  - No penalty per incorrect answer
+  - At least 4 questions will be given per grade level; ties will be broken by a 5th question
+
 
 
 # Contact
