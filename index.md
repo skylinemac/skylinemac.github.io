@@ -22,6 +22,7 @@ While we are not providing dinner (see schedule below), Skyline High School is c
 
 ### Schedule
 On Friday, February 16th, 2024, the SMAC will follow the schedule below:
+
 | **Time** | **Event** |
 | -------- | --------- |
 |          |           |
