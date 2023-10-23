@@ -47,7 +47,10 @@ For more details on each of the competition rounds, see the information below. P
 As seen in the schedule above, the SMAC will have **3 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding.
 
 | **Event** | **Qualification** | **Question Type** | **Point System** | **Maximum Points** |
-| Multiple Choice | All Students | 30 Multiple Choice Questions | 10 Easy Questions (1 point per question; 4 answer choices). 10 Medium Questions (3 points per question; 5 answer choices). 10 Hard Questions (5 points per question; 6 answer choices). 0.5 points for blank responses and 0 points for incorrect responses | 90 Points |
+| Multiple Choice | All Students | 30 Multiple Choice Questions | 10 Easy Questions (1 point per question; 4 answer choices)
+10 Medium Questions (3 points per question; 5 answer choices)
+10 Hard Questions (5 points per question; 6 answer choices)
+0.5 points for blank responses and 0 points for incorrect responses | 90 Points |
 
 
 # Contact
