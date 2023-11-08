@@ -6,7 +6,7 @@ layout: default
 
 Middle school math curriculum--and even competition math (think AMC, MATHCOUNTS...)--is filled with memorizing formula and solving problems that often seem entirely abstract. As such, learning math is frequently seen as a pointless task for many kids. 
 
-However, in our own high school careers, being exposed to the beauty of higher math and seeing the subject being applied everywhere in our lives has helped us realized: it isn't math itself that is boring, it is the way it has been introduced. Hence, with the **Skyline Math Applications Contest (SMAC)**, we've taken a different approach:
+However, in our own high school careers, being exposed to the beauty of higher math and seeing the subject being applied everywhere in our lives has helped us realized: it isn't math itself that is boring, it is the way it has been introduced. Hence, with the **Skyline Mathematical Applications Contest (SMAC)**, we've taken a different approach:
 
 The SMAC's questions focus on introducing math's real world applications, using previously abstract concepts and applying them to everything from engineering/physics to buying the best-valued donut. Much like the problem sets found in college math, competitors will **discover and derive** new concepts and learn new things, rather than being simply told that these concepts exist. Of course, with the engaging competition format and a healthy dose of humor sprinkled throughout our questions, our ultimate hope is that students have fun and learn that there _is a point to learning math_.
 
