@@ -10,7 +10,7 @@ However, in our own high school careers, being exposed to the beauty of higher m
 
 The SMAC's questions focus on introducing math's real world applications, using previously abstract concepts and applying them to everything from engineering/physics to buying the best-valued donut. Much like the problem sets found in college math, competitors will **discover and derive** new concepts and learn new things, rather than being simply told that these concepts exist. Of course, with the engaging competition format and a healthy dose of humor sprinkled throughout our questions, our ultimate hope is that students have fun and learn that there _is a point to learning math_.
 
-**Interested in registering?** Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email.
+**Interested in registering?** Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email. _Please note that this competition is entirely individual, no need to form teams!_
 
 # Competition Logistics
 ### Location
@@ -46,7 +46,7 @@ On Friday, February 16th, 2024, the SMAC will follow the schedule below:
 For more details on each of the competition rounds, see the information below. Please note that while we have time allotted for dinner, we will **not** be providing food. We encourage participants to either bring their own food (there will be space for everyone to eat and hang out) or go out and buy food.
 
 # Competition Format
-As seen in the schedule above, the SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding. Units are **not required** for any of the answers throughout this contest, and students may use scratch paper for all parts of the contest only if it is provided by SMAC organizers.
+As seen in the schedule above, the SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding. Units are **not required** for any of the answers throughout this contest, and students may use scratch paper for all parts of the contest only if it is provided by SMAC organizers. No calculators will be allowed in any part of the test.
 
 ## Multiple Choice
 - **Qualification**: All Students
