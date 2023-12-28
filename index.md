@@ -133,7 +133,10 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
   - No penalty per incorrect answer
 
   - At least 4 questions will be given per grade level; ties will be broken by a 5th question
-- **Note**: College bowl prizes will be given separately from individual prizes; college bowl scores do not affect individul scores accumulated from previous rounds
+- **Note**:
+
+  - College bowl prizes will be given separately from individual prizes
+  - College bowl scores do not affect individul scores accumulated from previous rounds
 
 
 # Contact
