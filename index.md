@@ -57,14 +57,15 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
 
   - 10 Easy Questions
 
-    - 1 point per correct answer; 4 answer choices each
+    - 3 point per correct answer; 4 answer choices each
   - 10 Medium Questions
 
-    - 3 points per correct answer; 5 answer choices each
+    - 4 points per correct answer; 5 answer choices each
   - 10 Hard Questions
 
     - 5 points per correct answer; 6 answer choices each
-  - 0.5 points for blank responses and 0 points for incorrect responses
+  - 1 point for blank responses and 0 points for incorrect responses
+- Total Points = 0.75 * Raw Score
 - **Total Points**: 90 Points
 
 
@@ -95,16 +96,18 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
   - 3 submissions per round
 
     - 1 submission of all 3 answers each at the 5-minute, 10-minute, and 15-minute mark
-  - 2 points per correct answer for the 5-minute and 10-minute submissions
+  - 2 points per correct answer for the 5-minute submission
+  
+  - 3 points per correct answer for the 10-minute submission
 
-  - 4 points per correct answer for the 15-minute submission
+  - 5 points per correct answer for the 15-minute submission
 
   - 0 points for blank or incorrect responses
-- **Total Points**: 24 Points per round; 48 Points in total
+- **Total Points**: 30 Points per round; 60 Points in total
 
 
 ## College Bowl
-- **Qualification**: Top 3 scorers from each grade based on sum of scores from the above rounds
+- **Qualification**: Top **3 scorers from each grade** based on sum of scores from the above rounds
 
   - Ties are broken in the order of rounds below:
 
@@ -128,7 +131,7 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
   - No penalty per incorrect answer
 
   - At least 4 questions will be given per grade level; ties will be broken by a 5th question
-
+- **Note**: College bowl prizes will be given separately from individual prizes; college bowl scores do not affect individul scores accumulated from previous rounds
 
 
 # Contact
