@@ -59,7 +59,7 @@ As seen in the schedule above, the SMAC will have **4 rounds**. A detailed descr
 
   - 10 Easy Questions
 
-    - 3 point per correct answer; 4 answer choices each
+    - 3 points per correct answer; 4 answer choices each
   - 10 Medium Questions
 
     - 4 points per correct answer; 5 answer choices each
