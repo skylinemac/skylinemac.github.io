@@ -14,7 +14,7 @@ The SMAC's questions focus on introducing math's real world applications, using 
 
 # Past Questions and Answers
 Our 2024 contest happened on February 16th, 2024. Attached are a complete set of questions and answer key.
-<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1uu3ZNaT5CPkB9hWhBOm6qvWGow3M1ma3/view?usp=sharing&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1uu3ZNaT5CPkB9hWhBOm6qvWGow3M1ma3/preview" style="width:70%; height:70%;" allow="autoplay"></iframe>
 
 
 
