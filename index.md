@@ -16,10 +16,20 @@ The SMAC's questions focus on introducing math's real world applications, using 
 Our 2024 contest happened on February 16th, 2024. Attached are a complete set of questions and answer key.
 
 Multiple choice:
-<iframe src="https://drive.google.com/file/d/1uu3ZNaT5CPkB9hWhBOm6qvWGow3M1ma3/preview" width="680" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1uu3ZNaT5CPkB9hWhBOm6qvWGow3M1ma3/preview" width="640" height="440" allow="autoplay"></iframe>
 
 Numerical response:
-<iframe src="https://drive.google.com/file/d/1wAQgTWtaPb0YMwgErERZ8Mt0PiKqbgR7/preview" width="680" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1wAQgTWtaPb0YMwgErERZ8Mt0PiKqbgR7/preview" width="640" height="440" allow="autoplay"></iframe>
+
+Triple Jump round 1:
+<iframe src="https://drive.google.com/file/d/1-3ZIYyTr3TkrFhndQD3Cvhb_Nt5Udjty/preview" width="640" height="440" allow="autoplay"></iframe>
+
+Triple Jump round 2:
+<iframe src="https://drive.google.com/file/d/1eCEn-LZd8RSyZmjG-X0wDNeo5S62_4D_s/preview" width="640" height="440" allow="autoplay"></iframe>
+
+Answer key (all rounds):
+<iframe src="https://drive.google.com/file/d/1wCmobYndVYpI1fztqjL2MmDC2YQg-3vC/preview" width="640" height="440" allow="autoplay"></iframe>
+
 
 <!---# Competition Logistics
 ### Location
