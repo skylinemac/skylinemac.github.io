@@ -25,7 +25,7 @@ Triple Jump round 1:
 <iframe src="https://drive.google.com/file/d/1-3ZIYyTr3TkrFhndQD3Cvhb_Nt5Udjty/preview" width="640" height="440" allow="autoplay"></iframe>
 
 Triple Jump round 2:
-<iframe src="https://drive.google.com/file/d/1eCEn-LZd8RSyZmjG-X0wDNeo5S62_4D_s/preview" width="640" height="440" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1eCEn-LZd8RSyZmjG-X0wDNeo5S62_4D_/preview" width="640" height="440" allow="autoplay"></iframe>
 
 Answer key (all rounds):
 <iframe src="https://drive.google.com/file/d/1wCmobYndVYpI1fztqjL2MmDC2YQg-3vC/preview" width="640" height="440" allow="autoplay"></iframe>
