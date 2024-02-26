@@ -12,7 +12,11 @@ The SMAC's questions focus on introducing math's real world applications, using 
 
 **Interested in registering?** Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email. _Please note that this competition is entirely individual, no need to form teams!_
 
-# Competition Logistics
+# Past Questions and Answers
+Our 2024 contest happened on February 16th, 2024. Attached are a complete set of questions and answer key.
+
+
+<!---# Competition Logistics
 ### Location
 **The SMAC will be held at** <span style="color:blue"><b>Skyline High School</b></span> **on Friday** <span style="color:blue"><b>February 16th, 2024</b></span>
 
@@ -44,9 +48,9 @@ On Friday, February 16th, 2024, the SMAC will follow the schedule below:
 | 8:00 - 8:30 | Awards ceremony                                           |
 
 For more details on each of the competition rounds, see the information below. Please note that while we have time allotted for dinner, we will **not** be providing food. We encourage participants to either bring their own food (there will be space for everyone to eat and hang out) or go out and buy food.
-
+--->
 # Competition Format
-As seen in the schedule above, the SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding. Units are **not required** for any of the answers throughout this contest, and students may use scratch paper for all parts of the contest only if it is provided by SMAC organizers. No calculators will be allowed in any part of the test.
+The SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding. Units are **not required** for any of the answers throughout this contest, and students may use scratch paper for all parts of the contest only if it is provided by SMAC organizers. No calculators will be allowed in any part of the test.
 
 ## Multiple Choice
 - **Qualification**: All Students
