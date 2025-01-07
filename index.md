@@ -65,7 +65,7 @@ On Friday, February 16th, 2024, the SMAC will follow the schedule below:
 For more details on each of the competition rounds, see the information below. Please note that while we have time allotted for dinner, we will **not** be providing food. We encourage participants to either bring their own food (there will be space for everyone to eat and hang out) or go out and buy food.
 --->
 # Competition Format
-The SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding. Units are **not required** for any of the answers throughout this contest, and students may use scratch paper for all parts of the contest only if it is provided by SMAC organizers. No calculators will be allowed in any part of the test.
+The SMAC will have **4 rounds**. A detailed description of each round is found below, along with how the competition will be scored and who we will be awarding. Students may use scratch paper for all parts of the contest only if it is provided by SMAC organizers. No calculators will be allowed in any part of the test.
 
 ## Multiple Choice
 - **Qualification**: All Students
