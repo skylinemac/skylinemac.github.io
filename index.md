@@ -10,7 +10,7 @@ However, in our own high school careers, being exposed to the beauty of higher m
 
 The SMAC's questions focus on introducing math's real-world applications, using previously abstract concepts and applying them to everything from engineering/physics to buying the best-valued donut. Much like the problem sets found in college math, competitors will **discover and derive** new concepts and learn new things, rather than being simply told that these concepts exist. Of course, with the engaging competition format and a healthy dose of humor sprinkled throughout our questions, our ultimate hope is that students have fun and learn that there _is a point to learning math_.
 
-**Interested in registering?** Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email. _Please note that this competition is entirely individual, no need to form teams!_
+**Interested in registering?** Our contest this year will be held on Friday, February 14! Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email. _Please note that this competition is entirely individual, no need to form teams!_
 
 # Past Questions and Answers
 Our 2024 contest happened on February 16th, 2024. Attached are a complete set of questions and answer key.
