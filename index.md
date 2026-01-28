@@ -13,8 +13,11 @@ The SMAC's questions focus on introducing math's real-world applications, using 
 **Interested in registering?** Our contest this year will be held on Friday, February 23! Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email. _Please note that this competition is entirely individual, no need to form teams!_
 
 # Past Questions and Answers
+
 Attached are a complete set of questions and answer key from both our 2024 and 2025 contests.
+
 **2025**
+
 Multiple Choice:
 <iframe src="https://drive.google.com/file/d/1u_DkVgQ56rtqnpjK_C5l7gKsp8JPEEww/view?usp=sharing" width="640" height="440" allow="autoplay"></iframe>
 
