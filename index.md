@@ -10,43 +10,7 @@ However, in our own high school careers, being exposed to the beauty of higher m
 
 The SMAC's questions focus on introducing math's real-world applications, using previously abstract concepts and applying them to everything from engineering/physics to buying the best-valued donut. Much like the problem sets found in college math, competitors will **discover and derive** new concepts and learn new things, rather than being simply told that these concepts exist. Of course, with the engaging competition format and a healthy dose of humor sprinkled throughout our questions, our ultimate hope is that students have fun and learn that there _is a point to learning math_.
 
-**Interested in registering?** Our contest this year will be held on **Friday, February 27!** Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email. _Please note that this competition is entirely individual, no need to form teams!_
-
-# Past Questions and Answers
-<br>
-Attached are a complete set of questions and answer key from both our 2024 and 2025 contests.
-<br>
-### **2025**
-<br>
-Multiple Choice:
-<iframe src="https://drive.google.com/file/d/1u_DkVgQ56rtqnpjK_C5l7gKsp8JPEEww/preview" width="640" height="480" allow="autoplay"></iframe>
-
-Numerical Response:
-<iframe src="https://drive.google.com/file/d/1FJV86JkCjcphyGOx2h8XWfBToQJL_XQP/preview" width="640" height="480" allow="autoplay"></iframe>
-
-Investigative Round:
-<iframe src="https://drive.google.com/file/d/1SQynG87iHg8EqiSl_W2xEi7cSjYvL8vY/preview" width="640" height="480" allow="autoplay"></iframe>
-
-Answer Key (all rounds):
-<iframe src="https://drive.google.com/file/d/1Wn5lBya9YWIXMNDjo3-HxCSGtx_L08s7/preview" width="640" height="480" allow="autoplay"></iframe>
-<br>
-### **2024**
-<br>
-Multiple Choice:
-<iframe src="https://drive.google.com/file/d/1uu3ZNaT5CPkB9hWhBOm6qvWGow3M1ma3/preview" width="640" height="440" allow="autoplay"></iframe>
-
-Numerical Response:
-<iframe src="https://drive.google.com/file/d/1wAQgTWtaPb0YMwgErERZ8Mt0PiKqbgR7/preview" width="640" height="440" allow="autoplay"></iframe>
-
-Triple Jump Round 1:
-<iframe src="https://drive.google.com/file/d/1-3ZIYyTr3TkrFhndQD3Cvhb_Nt5Udjty/preview" width="640" height="440" allow="autoplay"></iframe>
-
-Triple Jump Round 2:
-<iframe src="https://drive.google.com/file/d/1eCEn-LZd8RSyZmjG-X0wDNeo5S62_4D_/preview" width="640" height="440" allow="autoplay"></iframe>
-
-Answer Key (all rounds):
-<iframe src="https://drive.google.com/file/d/1wCmobYndVYpI1fztqjL2MmDC2YQg-3vC/preview" width="640" height="440" allow="autoplay"></iframe>
-
+**Interested in registering?** Our contest this year will be held on **Thursday, February 26!** Use the link at the side or top (for mobile users) of this website to fill out a form. All other information and updates will then be communicated to you via email. _Please note that this competition is entirely individual, no need to form teams!_
 
 <!---# Competition Logistics
 ### Location
@@ -60,22 +24,23 @@ Once you arrive at school, signs will direct you to the **library**, where we wi
 While we are not providing dinner (see schedule below), Skyline High School is conveniently located near many restaurants in the Sammamish area.
 
 ### Schedule
-On Friday, February 23rd, 2026, the SMAC will follow the schedule below:
+On Thursday, February 26rd, 2026, the SMAC will follow the schedule below:
 
 | **Time**    | **Event**                                                 |
 | ----------- | --------------------------------------------------------- |
-| 3:45 - 4:15 | Arrive at Skyline HS                                      |
-| 4:15 - 4:30 | Opening ceremony at Skyline library                       |
-| 4:30 - 4:45 | Walk to classrooms, get ready for competition             |
-| 4:45 - 5:25 | Round 1 (Multiple choice sprint round)                    |
-| 5:25 - 5:35 | Break                                                     |
-| 5:35 - 5:55 | Round 2 (Numerical response challenge round)              |
-| 5:55 - 6:05 | Break                                                     |
-| 6:05 - 6:35 | Round 3 (Investigative Response)                          |
-| 6:40 - 6:50 | Testing over - clean up                                   |
-| 6:50 - 7:30 | Dinner on your own (Skyline _will not_ be providing food) |
-| 7:30 - 8:00 | College bowl for top 3 students per grade in theater      |
-| 8:00 - 8:30 | Awards ceremony                                           |
+| 3:30 - 3:45 | Arrive at Skyline HS                                      |
+| 3:45 - 4:00 | Opening ceremony at Skyline library                       |
+| 4:00 - 4:10 | Walk to classrooms, get ready for competition             |
+| 4:10 - 4:50 | Round 1 (Multiple choice sprint round)                    |
+| 4:50 - 5:00 | Break                                                     |
+| 5:00 - 5:20 | Round 2 (Numerical response challenge round)              |
+| 5:20 - 5:30 | Break                                                     |
+| 5:30 - 6:00 | Round 3 (Investigative Response)                          |
+| 6:00 - 6:10 | Testing over - clean up                                   |
+| 6:10 - 6:50 | Dinner on your own (Skyline _will not_ be providing food) |
+| 6:50 - 7:00 | Transition to Theater                                     |
+| 7:00 - 7:30 | College bowl for top 3 students per grade in theater      |
+| 7:30 - 7:50 | Awards ceremony                                           |
 
 For more details on each of the competition rounds, see the information below. Please note that while we have time allotted for dinner, we will **not** be providing food. We encourage participants to either bring their own food (there will be space for everyone to eat and hang out) or go out and buy food.
 --->
@@ -165,6 +130,41 @@ The SMAC will have **4 rounds**. A detailed description of each round is found b
 
   - College bowl prizes will be given separately from individual prizes
   - College bowl scores do not affect individual scores accumulated from previous rounds
+
+# Past Questions and Answers
+<br>
+Attached are a complete set of questions and answer key from both our 2024 and 2025 contests.
+<br>
+### **2025**
+<br>
+Multiple Choice:
+<iframe src="https://drive.google.com/file/d/1u_DkVgQ56rtqnpjK_C5l7gKsp8JPEEww/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Numerical Response:
+<iframe src="https://drive.google.com/file/d/1FJV86JkCjcphyGOx2h8XWfBToQJL_XQP/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Investigative Round:
+<iframe src="https://drive.google.com/file/d/1SQynG87iHg8EqiSl_W2xEi7cSjYvL8vY/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Answer Key (all rounds):
+<iframe src="https://drive.google.com/file/d/1Wn5lBya9YWIXMNDjo3-HxCSGtx_L08s7/preview" width="640" height="480" allow="autoplay"></iframe>
+<br>
+### **2024**
+<br>
+Multiple Choice:
+<iframe src="https://drive.google.com/file/d/1uu3ZNaT5CPkB9hWhBOm6qvWGow3M1ma3/preview" width="640" height="440" allow="autoplay"></iframe>
+
+Numerical Response:
+<iframe src="https://drive.google.com/file/d/1wAQgTWtaPb0YMwgErERZ8Mt0PiKqbgR7/preview" width="640" height="440" allow="autoplay"></iframe>
+
+Triple Jump Round 1:
+<iframe src="https://drive.google.com/file/d/1-3ZIYyTr3TkrFhndQD3Cvhb_Nt5Udjty/preview" width="640" height="440" allow="autoplay"></iframe>
+
+Triple Jump Round 2:
+<iframe src="https://drive.google.com/file/d/1eCEn-LZd8RSyZmjG-X0wDNeo5S62_4D_/preview" width="640" height="440" allow="autoplay"></iframe>
+
+Answer Key (all rounds):
+<iframe src="https://drive.google.com/file/d/1wCmobYndVYpI1fztqjL2MmDC2YQg-3vC/preview" width="640" height="440" allow="autoplay"></iframe>
 
 
 # Contact
