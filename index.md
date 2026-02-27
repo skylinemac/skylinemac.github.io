@@ -93,7 +93,8 @@ The SMAC will have **4 rounds**. A detailed description of each round is found b
 - **Time Limit**: 30 minutes
   
 - **Point System**:
-    - Six total responses for the scenario, each awarding a maximum of 10 points
+    - Five total responses for the scenario, each awarding a variable amount of points
+    - Questions are broken into subquestions, which build off of one another.
       
     - Responses are graded based on correct answers as well as work shown
       
