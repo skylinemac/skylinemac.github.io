@@ -100,37 +100,6 @@ The SMAC will have **4 rounds**. A detailed description of each round is found b
     - Partial credit can be earned even with an incorrect answer
 - **Total Points**: 60 Points in total
 
-
-## College Bowl
-- **Qualification**: Top **3 scorers from each grade** based on sum of scores from the above rounds
-
-  - Ties are broken in the order of rounds below:
-
-    - Multiple Choice score
-
-    - Numerical Response score
-    
-    - Triple Jump score
-- **Question Type**: Integer answers
-
-- **Format**:
-
-  - Qualifiers from each grade will compete with a different set of questions
-
-  - Each question will be read twice with up to 40 seconds given per question after the **second read**
-
-  - Students may raise their hand to answer the question at anytime, but one student may only answer once per question
-
-  - 1 point per correct answer
-
-  - No penalty per incorrect answer
-
-  - At least 4 questions will be given per grade level; ties will be broken by a 5th question
-- **Note**:
-
-  - College bowl prizes will be given separately from individual prizes
-  - College bowl scores do not affect individual scores accumulated from previous rounds
-
 # Past Questions and Answers
 <br>
 Attached are a complete set of questions and answer key from both our 2024 and 2025 contests.
@@ -156,12 +125,6 @@ Multiple Choice:
 
 Numerical Response:
 <iframe src="https://drive.google.com/file/d/1wAQgTWtaPb0YMwgErERZ8Mt0PiKqbgR7/preview" width="100%" height="440" allow="autoplay"></iframe>
-
-Triple Jump Round 1:
-<iframe src="https://drive.google.com/file/d/1-3ZIYyTr3TkrFhndQD3Cvhb_Nt5Udjty/preview" width="100%" height="440" allow="autoplay"></iframe>
-
-Triple Jump Round 2:
-<iframe src="https://drive.google.com/file/d/1eCEn-LZd8RSyZmjG-X0wDNeo5S62_4D_/preview" width="100%" height="440" allow="autoplay"></iframe>
 
 Answer Key (all rounds):
 <iframe src="https://drive.google.com/file/d/1wCmobYndVYpI1fztqjL2MmDC2YQg-3vC/preview" width="100%" height="440" allow="autoplay"></iframe>
